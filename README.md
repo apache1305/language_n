@@ -6,9 +6,10 @@ Steps:
 3. Now after compilation type "compiler tic.n"
 4. Play the TIC-TAC-TOE game. Enjoy !!
 
-Team members - https://github.com/harshvardhanpro
-               https://github.com/apache1305
-               https://github.com/achheSharma
-               Prashant
-               Ekam
+Team members - 
+https://github.com/harshvardhanpro
+https://github.com/apache1305
+https://github.com/achheSharma
+Prashant
+Ekam
                
