@@ -130,6 +130,7 @@ void createCPPfile(){
 	ofstream outfile;
   	outfile.open("tic.cpp");
   	outfile <<"#include <iostream>"<<endl;
+	outfile <<"#include <cstdlib>"<<endl; 
 	outfile <<"#include <cstdlib>"<<endl;
   	outfile <<"using namespace std;"<<endl; 
 	outfile.close();
